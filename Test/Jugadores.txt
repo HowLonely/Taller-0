@@ -1,0 +1,10 @@
+Memekaizar,pato123,10,10,10,10,2,1750
+Jugador2,asd123,20,8,7,5,4,3000
+Jugador3,qwe321,73,13,2,3,1,2000
+Jugador4,5432qq,51,12,7,4,3,1200
+Jugador5,qwerty,12,14,3,10,5,4500
+Jugador6,234oir,11,22,3,4,1,2040
+Jugador7,898ui,11,4,7,8,1,4000
+Jugador8,456rew,43,3,6,4,3,6400
+Jugador9,56iokjn,73,9,11,16,4,3200
+Jugador10,19uiyt,92,9,9,12,2,4444

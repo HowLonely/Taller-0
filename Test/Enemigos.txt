@@ -1,0 +1,6 @@
+Bahamut,300,20,S,50
+Enemigo2,10,2,F,3
+Enemigo3,22,5,C,9
+Enemigo4,30,8,B,14
+Enemigo5,50,15,A,20
+Enemigo6,240,21,S,19

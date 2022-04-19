@@ -1,0 +1,6 @@
+Meteo,9999
+Hechizo2,2222
+Hechizo3,3333
+Hechizo4,4444
+Hechizo5,5555
+Hechizo6,6666
